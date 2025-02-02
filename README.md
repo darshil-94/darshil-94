@@ -1,3 +1,4 @@
+![logo](https://github.com/darshil-94/darshil-94/blob/main/DARSHIL%20PATEL%20(1).png)
 <h1 align="center">Hi 👋, I'm Darshil Patel</h1>
 <h3 align="center">🚀 AI | ML | NLP | LLMs | Data Science | Embedded AI</h3>  
 <h4 align="center">Transforming Ideas into Intelligent Systems – From Large Language Models to Real-Time AI Innovations.</h4>
